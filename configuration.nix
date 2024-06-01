@@ -147,6 +147,19 @@
     python3
     poetry
     go
+    nodejs
+    bottom
+    xclip
+    fzf
+    ripgrep
+    ansible
+    kubectl
+    git
+    lazygit
+    kubectl
+    k9s
+    pyenv
+    poetry
     cargo
     rustc
     zig
